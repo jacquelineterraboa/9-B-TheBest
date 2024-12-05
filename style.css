@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-size: large;
+    margin: center;
+}
+
+#lavanda{
+	width:19%;
+    height: 400px;
+}
+
+#filtro {
+    width: 19%;
+    height: 400px;
+}
+
+#alegria {
+    width: 19%;
+    height: 400px;
+}
+
+#peixe {
+    width: 19%;
+    height: 400px;
+}
+
+#ligacao {
+    width: 19%;
+    height: 400px;
+
+}
+
+#plantio {
+    width: 22%;
+    height: 280px;
+}
+
+#pesquisa {
+    width: 24%;
+    height: 280px;
+}
+#solo {
+    width: 25%;
+    height: 280px;
+}
+#alegria-dois {
+    width: 24%;
+    height: 280px;
+}
+
+#alegria-um {
+    width: 48%;
+    height: 400px;
+}
+#pressao {
+    width: 24%;
+    height: 400px;
+}
+#todos {
+    width: 24%;
+    height: 400px;
+}
+
+.principal {
+    background-color: #1f4232;
+	padding: 50px;
+    font-size: 22px;
+    color: rgb(166, 200, 229);
+}
+
+h1 {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+.imagem {
+    background-color: #1f4232 ;
+    padding: 60px;
+    text-align: center;
+}
+.imagem-dois {
+    background-color: #1f4232 ;
+    padding: 50px;
+    text-align: center;
+}
+#missao {
+	font-size: 22px
+}
+
+em strong {
+	color: #2b6149;
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background: #1f4232;
+	padding: 50px;
+    color: rgb(187, 186, 235);
+    
+}
+.alegrias {
+    background: #1f4232;
+	padding: 50px;
+    color: rgb(187, 186, 235);
+    text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+
+    @media (max-width: 560px) {
+        body {
+            background: url('img/img/mercado-1.webp');
+        }
+    }
